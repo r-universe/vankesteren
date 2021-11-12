@@ -13,3 +13,18 @@
 	url = https://github.com/vankesteren/cmfilter
 	shallow = true
 	registered = true
+[submodule "tensorsem"]
+	path = tensorsem
+	url = https://github.com/vankesteren/tensorsem
+	shallow = true
+	registered = true
+[submodule "efast"]
+	path = efast
+	url = https://github.com/vankesteren/efast
+	shallow = true
+	registered = true
+[submodule "privreg"]
+	path = privreg
+	url = https://github.com/vankesteren/privreg
+	shallow = true
+	registered = true
