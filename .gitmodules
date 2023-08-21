@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/vankesteren/universe
 	branch = HEAD
-[submodule "firatheme"]
-	path = firatheme
-	url = https://github.com/vankesteren/firatheme
 [submodule "cmfilter"]
 	path = cmfilter
 	url = https://github.com/vankesteren/cmfilter
-[submodule "tensorsem"]
-	path = tensorsem
-	url = https://github.com/vankesteren/tensorsem
 [submodule "efast"]
 	path = efast
 	url = https://github.com/vankesteren/efast
+[submodule "firatheme"]
+	path = firatheme
+	url = https://github.com/vankesteren/firatheme
 [submodule "privreg"]
 	path = privreg
 	url = https://github.com/vankesteren/privreg
+[submodule "tensorsem"]
+	path = tensorsem
+	url = https://github.com/vankesteren/tensorsem
