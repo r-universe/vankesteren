@@ -14,6 +14,9 @@
 [submodule "privreg"]
 	path = privreg
 	url = https://github.com/vankesteren/privreg
+[submodule "rpeaks"]
+	path = rpeaks
+	url = https://github.com/vankesteren/rpeaks
 [submodule "tensorsem"]
 	path = tensorsem
 	url = https://github.com/vankesteren/tensorsem
