@@ -11,6 +11,9 @@
 [submodule "firatheme"]
 	path = firatheme
 	url = https://github.com/vankesteren/firatheme
+[submodule "pensynth"]
+	path = pensynth
+	url = https://github.com/vankesteren/pensynth
 [submodule "privreg"]
 	path = privreg
 	url = https://github.com/vankesteren/privreg
