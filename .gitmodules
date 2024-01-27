@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/vankesteren/universe
+	url = https://github.com/vankesteren/vankesteren.r-universe.dev
 	branch = HEAD
 [submodule "cmfilter"]
 	path = cmfilter
