@@ -20,6 +20,9 @@
 [submodule "rpeaks"]
 	path = rpeaks
 	url = https://github.com/vankesteren/rpeaks
+[submodule "sfneighbourconnector"]
+	path = sfneighbourconnector
+	url = https://github.com/vankesteren/sfneighbourconnector
 [submodule "tensorsem"]
 	path = tensorsem
 	url = https://github.com/vankesteren/tensorsem
